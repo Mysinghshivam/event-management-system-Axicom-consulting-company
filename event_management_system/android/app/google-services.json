@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830812752805",
+    "project_id": "event-management-system-slk",
+    "storage_bucket": "event-management-system-slk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830812752805:android:60607e6b79ab00151ab64c",
+        "android_client_info": {
+          "package_name": "com.example.event_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830812752805-qkv4hjvs62jni7sivuhrclbeqe22uabh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.event_management_system",
+            "certificate_hash": "1d03dc5a0c5a6a0a1a52531e137b3bc4e86887f0"
+          }
+        },
+        {
+          "client_id": "830812752805-ln4ovtlvkb5h5o9sra0uoo4q9uarkipq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPRCE14S0HOEmFP9d0UDHuextR9Q42Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830812752805-ln4ovtlvkb5h5o9sra0uoo4q9uarkipq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
