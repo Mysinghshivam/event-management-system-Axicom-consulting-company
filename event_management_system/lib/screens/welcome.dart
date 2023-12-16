@@ -20,7 +20,7 @@ class Welcome extends StatelessWidget {
             );
           },
           child: Text(
-            "Manager",
+            "Admin",
             textAlign: TextAlign.center,
             style: TextStyle(
                 fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),
@@ -39,7 +39,7 @@ class Welcome extends StatelessWidget {
             );
           },
           child: Text(
-            "Client",
+            "user",
             textAlign: TextAlign.center,
             style: TextStyle(
                 fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),
@@ -58,7 +58,7 @@ class Welcome extends StatelessWidget {
             );
           },
           child: Text(
-            "Staff",
+            "vendor",
             textAlign: TextAlign.center,
             style: TextStyle(
                 fontSize: 20, color: Colors.white, fontWeight: FontWeight.bold),
